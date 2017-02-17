@@ -1,0 +1,66 @@
+/*2CBFFF blue*/
+
+
+/*28E0E8 light blue*/
+
+
+/*39FFD0 mint*/
+
+
+/*28E884 moss*/
+
+
+/*2CFF55 green*/
+
+.container {
+    border: 3px solid #000000;
+    width: 960px;
+    margin: 0 auto;
+    text-align: center
+}
+
+body {
+    background-color: #39FFD0;
+}
+
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+li {
+    display: inline;
+    padding-bottom: 14px;
+    padding-left: 20px;
+    background-repeat: no-repeat;
+}
+
+a {
+    padding-left: 20px;
+    padding-bottom: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a:link, #navlist a:visited {
+    padding-left: 20px;
+    color: red;
+    background: url(http://hekima.lionking.org/randomness/arrowbullet.gif);
+    background-position: 0 -28px;
+    background-repeat: no-repeat;
+}
+
+a:hover {
+    color: black;
+    padding-left: 20px;
+    background: url(http://hekima.lionking.org/randomness/arrowbullet.gif);
+    background-repeat: no-repeat;
+    background-position: 0 -14px;
+}
+
+footer {
+    background-color: red;
+}
